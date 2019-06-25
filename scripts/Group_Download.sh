@@ -22,7 +22,7 @@ ComputerGroupDownloadDirectory="Users/Shared/Backups/groups"
 EncryptedUser="${1}"
 EncryptedPass="${2}"
 
-jamfpro_url="https://suncorp.jamfcloud.com"
+jamfpro_url="https://example.jamfcloud.com"
 
 # API username
 jamfpro_user=$(DecryptUser.sh "${EncryptedUser}")

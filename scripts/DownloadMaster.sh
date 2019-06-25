@@ -2,8 +2,8 @@
 #
 # DownloadMaster.sh
 
-usr="YXBpX3JlYWRfb25seQo="
-pass="cmVhZG9ubHkK"
+usr="YXBpX3JlYFAKEWRfb25seQo="
+pass="cmVhZFAKEG9ubHkK"
 
 Configuration_Profile_Download.sh $usr $pass
 EncryptedStrings.sh* $usr $pass

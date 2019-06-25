@@ -18,7 +18,7 @@
 PolicyDownloadDirectory="/Users/Shared/Backups/policies"
 
 # URL - no trailing slash
-jamfpro_url="https://suncorp.jamfcloud.com"
+jamfpro_url="https://example.jamfcloud.com"
 
 EncryptedUser="${1}"
 EncryptedPass="${2}"
